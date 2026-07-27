@@ -141,29 +141,8 @@ Both scored on a scale of **0–10**.
 > Add your dashboard screenshot inside the **Images** folder and update the file name below.
 
 ```markdown
-![Dashboard](Images/Power-BI dashboard.png)
+![Dashboard](Power-BI dashboard.png)
 ```
-
----
-
-## 📁 Repository Structure
-
-```
-Data-Professional-Survey-Dashboard/
-│
-├── Dataset/
-│   └── Professional_survey_original_dataset.xlsx
-│
-├── Dashboard/
-│   └── Data Professional Survey Breakdown.pbix
-│
-├── Images/
-│   └── dashboard.png
-│
-└── README.md
-```
-
----
 
 ## 🚀 How to Use
 
