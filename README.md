@@ -139,7 +139,7 @@ Both scored on a scale of **0–10**.
 ## 📷 Dashboard Preview
 
 ```markdown
-![Power_BI_dashboard](Power_BI_dashboard.png.png)
+![Power BI Dashboard](Power_BI_dashboard.png)
 ```
 
 ## 🚀 How to Use
