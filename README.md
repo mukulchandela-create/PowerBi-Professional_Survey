@@ -138,10 +138,8 @@ Both scored on a scale of **0–10**.
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot inside the **Images** folder and update the file name below.
-
 ```markdown
-![Dashboard](Power-BI dashboard.png)
+![Power_BI_dashboard](Power_BI_dashboard.png.png)
 ```
 
 ## 🚀 How to Use
